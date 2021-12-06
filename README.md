@@ -7,6 +7,11 @@ i then tidied up the paragraphs alittle in the html.
 
 then i added alts and titles to all the images on the page for accessability.
 
-finally i compressed the css files to do the same thing since there were multiple codes doing the same thing.
+finally i compressed the css files that do the same thing since there were multiple codes doing the same thing.
 
+i finished by doing my final commit and pushing it to my github.
+
+
+
+joel shewan
 
